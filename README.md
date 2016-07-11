@@ -33,3 +33,5 @@ Things you may want to cover:
 #Setting up validations.
 
 # Created a product controller with it's actions and it inherited an application controller.
+
+#Created the action methods that were needed for the product controller.
