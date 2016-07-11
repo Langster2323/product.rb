@@ -31,3 +31,5 @@ Things you may want to cover:
 # Created a folder within the view folder called Product, I then created two action.html.erb files.
 
 #Setting up validations.
+
+# Created a product controller with it's actions and it inherited an application controller.
