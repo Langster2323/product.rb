@@ -27,3 +27,7 @@ Things you may want to cover:
 # Created a rails repository: rails new product --api
 
 #Created a table: rails generate model product name:string price:integer condition:text on_clearance:integer quantity:integer
+
+# Created a folder within the view folder called Product, I then created two action.html.erb files.
+
+#Setting up validations.
