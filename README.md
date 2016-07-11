@@ -35,3 +35,5 @@ Things you may want to cover:
 # Created a product controller with it's actions and it inherited an application controller.
 
 #Created the action methods that were needed for the product controller.
+
+#I should've done this first, but I sketched out a UML(Unified Modeling Language).
